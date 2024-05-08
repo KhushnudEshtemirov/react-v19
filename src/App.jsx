@@ -13,7 +13,7 @@ function App() {
   return (
     <div className="App">
       <button onClick={handleClick} disabled={isLoading}>
-        Submit
+        Updated Button
       </button>
     </div>
   );
